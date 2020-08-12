@@ -1,7 +1,4 @@
-# week2parkinggarageproject
-This repo contains the parking garage project for week 2. 
-
-The objective of the project was to write a an object-oriented Python program for customer admission into a parking garage.
+The objective of this application is to implement an automated system for customer admission into a parking garage.
 It was a pair programming project completed by myself and Celeste Barrios-Cruz.
 
 I created the initial repository. 
